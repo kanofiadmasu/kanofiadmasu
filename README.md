@@ -1,4 +1,4 @@
-## Hi there 👋, 
+## Hello there 👋, 
 
 My name is Kanofi Abebe. I am currently self-studying fundamental mathematical and computational concepts for engineering.
 
