@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, 
+
+My name is Kanofi Abebe. I am currently self stuying fundamental mathematical and computational concptes for engineering. 
+
+I have been building some projects to enhance my skills, if you have any project idea, or you are into math, ML, and engineering I would love to connect and collaborate. 
 
 <!--
 **kanofiadmasu/kanofiadmasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
